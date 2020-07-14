@@ -1,6 +1,6 @@
 Read me  
 
-![gopherbadger-tag-do-not-edit]()
+[gopherbadger-tag-do-not-edit]()
 
 ## To run 
 
