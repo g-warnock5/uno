@@ -1,4 +1,5 @@
-Read me
+Read me  https://img.shields.io/codecov/c/github/g-warnock5/uno
+
 
 
 ## To run 
