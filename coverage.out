@@ -1,13 +1,4 @@
 mode: set
-
-_/home/gsw/Documents/school/summer20/devops/uno/server/main.go:10.13,34.2 10 0
-_/home/gsw/Documents/school/summer20/devops/uno/server/routeHandlers.go:12.32,19.2 6 1
-_/home/gsw/Documents/school/summer20/devops/uno/server/routeHandlers.go:21.36,23.2 1 1
-_/home/gsw/Documents/school/summer20/devops/uno/server/routeHandlers.go:25.34,27.2 1 0
-_/home/gsw/Documents/school/summer20/devops/uno/server/routeHandlers.go:29.38,32.2 2 0
-_/home/gsw/Documents/school/summer20/devops/uno/server/routeHandlers.go:34.35,36.2 1 0
-_/home/gsw/Documents/school/summer20/devops/uno/server/routeHandlers.go:38.33,42.2 2 0
-_/home/gsw/Documents/school/summer20/devops/uno/server/routeHandlers.go:44.33,46.2 1 0
 _/home/gsw/Documents/school/summer20/devops/uno/server/uno.go:25.58,30.16 3 0
 _/home/gsw/Documents/school/summer20/devops/uno/server/uno.go:35.2,35.15 1 0
 _/home/gsw/Documents/school/summer20/devops/uno/server/uno.go:30.16,32.3 1 0
@@ -52,4 +43,11 @@ _/home/gsw/Documents/school/summer20/devops/uno/server/uno.go:209.30,210.25 1 1
 _/home/gsw/Documents/school/summer20/devops/uno/server/uno.go:215.2,215.11 1 1
 _/home/gsw/Documents/school/summer20/devops/uno/server/uno.go:210.25,211.37 1 0
 _/home/gsw/Documents/school/summer20/devops/uno/server/uno.go:211.37,213.4 1 0
-
+_/home/gsw/Documents/school/summer20/devops/uno/server/main.go:10.13,34.2 10 0
+_/home/gsw/Documents/school/summer20/devops/uno/server/routeHandlers.go:12.32,19.2 6 1
+_/home/gsw/Documents/school/summer20/devops/uno/server/routeHandlers.go:21.36,23.2 1 1
+_/home/gsw/Documents/school/summer20/devops/uno/server/routeHandlers.go:25.34,27.2 1 0
+_/home/gsw/Documents/school/summer20/devops/uno/server/routeHandlers.go:29.38,32.2 2 0
+_/home/gsw/Documents/school/summer20/devops/uno/server/routeHandlers.go:34.35,36.2 1 0
+_/home/gsw/Documents/school/summer20/devops/uno/server/routeHandlers.go:38.33,42.2 2 0
+_/home/gsw/Documents/school/summer20/devops/uno/server/routeHandlers.go:44.33,46.2 1 0
