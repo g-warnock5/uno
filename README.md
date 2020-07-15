@@ -1,6 +1,8 @@
-Read me  
 
-[gopherbadger-tag-do-not-edit]()
+![Go](https://github.com/jak103/uno/workflows/Go/badge.svg?branch=master)
+
+Read me
+
 
 ## To run 
 
@@ -12,4 +14,3 @@ In seperate terminal
 
 This will start the back end server, and the front end will hot-reload when editing the frontend
 
-testing gopher
